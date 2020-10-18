@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import GaussianNB
 
 
+# The main function for the algorithm
 def main():
 
     """

@@ -11,6 +11,7 @@ class Node:
         self.prev = None
 
 
+# creation of doulbly linked list
 class doublylink:
     def __init__(self):
         self.head = None
